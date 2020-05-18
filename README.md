@@ -3,7 +3,7 @@
 这个repo原始版本有clio98提供，我在基础上修改了一下必要的配置步骤和教程。有任何问题欢迎提issue。
 
 
-##　使用
+## 使用
 
 将这个代码clone到和efficientdet同一个根目录的地方，这里指的是Yet-Another-Efficientdet的版本，然后传入你的project配置文件和数据根目录即可。
 
